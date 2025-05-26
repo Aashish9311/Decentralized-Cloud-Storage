@@ -4,3 +4,17 @@ cache/
 .env
 dist/
 build/
+.cache/
+
+
+
+
+# # .gitignore
+# node_modules/
+# .env
+# artifacts/
+# cache/
+# coverage/
+# dist/
+# build/
+# .DS_Store
